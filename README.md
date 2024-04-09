@@ -13,10 +13,10 @@ This data set dates from 1988 and consists of four databases: Cleveland, Hungary
 1. age
 2. sex
 3. chest pain type (4 values)
- * Value 0 : typical angina
- * Value 1 : atypical angina
- * Value 2 : non-anginal pain
- * Value 3 : asymptomatic
+  * Value 0 : typical angina
+  * Value 1 : atypical angina
+  * Value 2 : non-anginal pain
+  * Value 3 : asymptomatic
 4. trestbps : resting blood pressure
 5. chol : serum cholesterol in mg/dl
 6. fbs : fasting blood sugar > 120 mg/dl
