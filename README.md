@@ -54,4 +54,4 @@ The names and social security numbers of the patients were recently removed from
 
 |Project Name|Analysis File|CSV File|My Linkedln|My Github|
 |-|-|-|-|-|
-|Heart Disease Data Analysis|[Link](https://github.com/shubhammeshram01/Heart-Disease-Data-Analysis/blob/main/Heart%20Disease%20Data%20Analysis.ipynb)|[Link](https://github.com/shubhammeshram01/Heart-Disease-Data-Analysis/blob/main/heart.csv)|[Link]()|[Link](https://github.com/shubhammeshram01)|
+|Heart Disease Data Analysis|[Link](https://github.com/shubhammeshram01/Heart-Disease-Data-Analysis/blob/main/Heart%20Disease%20Data%20Analysis.ipynb)|[Link](https://github.com/shubhammeshram01/Heart-Disease-Data-Analysis/blob/main/heart.csv)|[Linkedln]()|[Github](https://github.com/shubhammeshram01)|
