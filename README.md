@@ -36,6 +36,20 @@ This data set dates from 1988 and consists of four databases: Cleveland, Hungary
 
 The names and social security numbers of the patients were recently removed from the database, and replaced with dummy values
 
+## Analyze the following questions :
+
+1) How many people have heart disease and how many don't have it?
+2) Find the count of male and female
+3) Gender distribution according to the Target variable
+4) Age distribution in the dataset
+5) Check chest pain type
+6) Check chest pain distribution as per the target variable
+7) Show fasting blood sugar distribution according to target variable
+8) Check resting blood pressure distribution
+9) Compare resting blood pressure as per sex column
+10) Check the distribution of Serum Cholesterol
+
+
 ## Analysis Files
 
 |Name|Analysis File|CSV File|My Linkedln|My Github|
